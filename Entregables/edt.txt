@@ -1,0 +1,39 @@
+@startwbs
+* Plataforma Integral para la Gestión y Administración de Becas Académicas (Beca360)
+** 1. Planificación
+*** 1.1 Acta de proyecto <<deliverable>>
+*** 1.2 Business Model Canvas <<deliverable>>
+*** 1.3 EDT del proyecto <<deliverable>>
+*** 1.4 Análisis de Requisitos <<deliverable>>
+*** 1.5 Matriz de Riesgos <<deliverable>>
+*** 1.6 Matriz de Roles y Responsabilidades <<deliverable>>
+*** 1.7 Matriz de Evaluación de alternativas <<deliverable>> 
+*** 1.8 Matriz de Habilidades y Competencias <<deliverable>>
+** 2. Análisis
+*** 2.1 Matriz de interesados <<deliverable>>
+*** 2.2 Matriz de comunicaciones <<deliverable>>
+*** 2.3 Plan a alto nivel definido <<deliverable>>
+*** 2.4 Matriz de Costos <<deliverable>>
+*** 2.5 Cronograma del Proyecto <<deliverable>>
+*** 2.6 Presentación a la alta dirección <<deliverable>>
+** 3. Diseño
+*** 3.1 Análisis
+**** 3.1.1 Documento de casos de uso <<deliverable>>
+**** 3.1.2 Documento de especificación funcional 
+*** 3.2 Documentación
+**** 3.2.1 Diagrama de clases <<deliverable>>
+**** 3.2.2 Diagrama de entidad relación <<deliverable>>
+**** 3.2.3 Diagrama de Arquitectura <<deliverable>>
+**** 3.2.4 Documentación de infraestructura <<deliverable>>
+** 4. Desarrollo
+*** 4.1 Documento de especificación técnica: 
+**** 4.1.1 Backend controlado <<deliverable>>
+**** 4.1.2 Frontend controlado <<deliverable>>
+*** 4.2. Pruebas
+**** 4.2.1 Informe de pruebas <<deliverable>>
+** 5. Implementación y cierre del proyecto
+*** 5.1 Documento de configuración y setup <<deliverable>>
+*** 5.2 Documento de lecciones aprendidas <<deliverable>>
+*** 5.3 Base de conocimientos (LLAA) <<deliverable>>
+*** 5.4 Acta de cierre del Proyecto <<deliverable>>
+@endwbs

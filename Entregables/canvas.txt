@@ -1,0 +1,90 @@
+ocios clave
+
+    Fundaciones sin fines de lucro.
+    Organismos financiadores.
+    Empresas patrocinadores de programas de becas.
+    Instituciones educativas.
+    Organizaciones de estudiantes.
+    Estado nacional, provincial o municipal.
+    Partners tecnológicos.
+
+Actividades clave
+
+    Administración de convocatorias de becas y sus postulaciones.
+    Otorgamiento y seguimiento de becas.
+    Mantenimiento y evolución de la plataforma.
+    Indicadores y reportes de gestión.
+    Generación de reportes de postulaciones y beneficiarios
+    Análisis de datos.
+    Validación de documentación presentada.
+    Soporte técnico a instituciones.
+
+Recursos clave
+
+    Infraestructura tecnológica y de cloud.
+    Plataforma web.
+    Base de datos académica y de usuarios.
+    Equipo de desarrollo y de soporte técnico.
+    Servicio de registro, otorgamiento y seguimiento de becas.
+    Infraestructura de ciberseguridad.
+
+Propuesta de valor
+
+    Centralización de la información relacionada con becas y postulantes.
+    Estandarización de los procedimientos de evaluación y asignación.
+    Mayor seguridad y resguardo de la información de postulantes.
+    Transparencia y trazabilidad de decisiones.
+    Generación de indicadores y reportes para autoridades académicas y organismos financiadores.
+    Automatización del proceso integral de gestión de becas.
+    Mejora de la experiencia del estudiante.
+    Reducción de tiempos administrativos.
+
+Relación con clientes
+
+    Autoservicio (web).
+    Soporte personalizado (via email).
+    Asistencia durante la puesta en marcha (Email y Whatsapp)
+    Mesa de ayuda (web y email)
+    Capacitación institucional.
+
+Canales
+
+    Canales propios y de terceros.
+    WhatsApp, E-Mail, redes sociales.
+    Recomendaciones de clientes actuales.
+    Eventos y ferias educativas.
+    Webinars y capacitaciones.
+    Alianzas con terceros (instituciones educativas)
+    Página web institucional.
+    Convenios con univesidades.
+
+Segmentos de clientes
+
+    Clientes:
+    Universidades.
+    Institutos terciarios.
+    Fundaciones.
+    Organismos gubernamentales.
+    Empresas con programas de becas.
+    Usuario final:
+    Estudiantes.
+
+Estructura de Costos
+
+    Infraestrucutra y mantenimiento tecnológico.
+    Sueldos del personal: desarrolladores y soporte técnico.
+    Marketing.
+    Licencias de software.
+    Infraestructura cloud.
+    Ciberseguridad.
+    Costos legales y cumplimiento normativo.
+
+Fuentes de ingresos
+
+    Suscripciones de instituciones educativas.
+    Licencias SaaS, anuales e integraciones personalizadas.
+    Mantenimiento y soporte premium.
+    Consultoría para instituciones.
+    Servicios de implementación inicial.
+    Comisiones por gestión de becas.
+
