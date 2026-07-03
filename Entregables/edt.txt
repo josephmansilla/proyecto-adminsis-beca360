@@ -29,11 +29,13 @@
 *** 4.1 Documento de especificación técnica: 
 **** 4.1.1 Backend controlado <<deliverable>>
 **** 4.1.2 Frontend controlado <<deliverable>>
-*** 4.2. Pruebas
-**** 4.2.1 Informe de pruebas <<deliverable>>
-** 5. Implementación y cierre del proyecto
-*** 5.1 Documento de configuración y setup <<deliverable>>
-*** 5.2 Documento de lecciones aprendidas <<deliverable>>
-*** 5.3 Base de conocimientos (LLAA) <<deliverable>>
-*** 5.4 Acta de cierre del Proyecto <<deliverable>>
+** 5 Pruebas
+*** 5.1 Plan de prueba <<deliverable>> 
+*** 5.2 Casos de prueba <<deliverable>> 
+*** 5.3 Informe de pruebas <<deliverable>> 
+** 6. Implementación y cierre del proyecto
+*** 6.1 Documento de configuración y setup <<deliverable>>
+*** 6.2 Documento de lecciones aprendidas <<deliverable>>
+*** 6.3 Base de conocimientos (LLAA) <<deliverable>>
+*** 6.4 Acta de cierre del Proyecto <<deliverable>>
 @endwbs
