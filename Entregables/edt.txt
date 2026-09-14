@@ -1,41 +1,112 @@
 @startwbs
 * Plataforma Integral para la Gestión y Administración de Becas Académicas (Beca360)
-** 1. Planificación
-*** 1.1 Acta de proyecto <<deliverable>>
-*** 1.2 Business Model Canvas <<deliverable>>
-*** 1.3 EDT del proyecto <<deliverable>>
-*** 1.4 Análisis de Requisitos <<deliverable>>
-*** 1.5 Matriz de Riesgos <<deliverable>>
-*** 1.6 Matriz de Roles y Responsabilidades <<deliverable>>
-*** 1.7 Matriz de Evaluación de alternativas <<deliverable>> 
-*** 1.8 Matriz de Habilidades y Competencias <<deliverable>>
-** 2. Análisis
-*** 2.1 Matriz de interesados <<deliverable>>
-*** 2.2 Matriz de comunicaciones <<deliverable>>
-*** 2.3 Plan a alto nivel definido <<deliverable>>
-*** 2.4 Matriz de Costos <<deliverable>>
-*** 2.5 Cronograma del Proyecto <<deliverable>>
-*** 2.6 Presentación a la alta dirección <<deliverable>>
+
+** 1. Iniciación
+*** 1.1 Acta de Proyecto <<deliverable>>
+*** 1.2 Organización del Proyecto <<deliverable>>
+*** 1.3 Presupuesto inicial <<deliverable>>
+*** 1.4 Matriz de interesados <<deliverable>>
+
+** 2. Planificación
+*** 2.1 Relevamiento y análisis de requisitos
+**** 2.1.1 Requisitos funcionales <<deliverable>>
+**** 2.1.2 Requisitos no funcionales <<deliverable>>
+**** 2.1.3 Alcance y criterios de aceptación <<deliverable>>
+*** 2.2 Planificación del proyecto
+**** 2.2.1 EDT del proyecto <<deliverable>>
+**** 2.2.2 Cronograma del proyecto <<deliverable>>
+**** 2.2.3 Plan de costos y presupuesto <<deliverable>>
+**** 2.2.4 Matriz de riesgos <<deliverable>>
+**** 2.2.5 Planes de acción y contingencia <<deliverable>>
+**** 2.2.6 Matriz de comunicaciones <<deliverable>>
+**** 2.2.7 Plan de calidad <<deliverable>>
+*** 2.3 Gestión organizacional
+**** 2.3.1 Matriz de roles y responsabilidades <<deliverable>>
+**** 2.3.2 Matriz de habilidades y competencias <<deliverable>>
+**** 2.3.3 Matriz de evaluación de alternativas <<deliverable>>
+*** 2.4 Modelo de negocio
+**** 2.4.1 Business Model Canvas <<deliverable>>
+*** 2.5 Plan a alto nivel
+**** 2.5.1 Plan a alto nivel definido <<deliverable>>
+
 ** 3. Diseño
-*** 3.1 Análisis
+*** 3.1 Diseño funcional
 **** 3.1.1 Documento de casos de uso <<deliverable>>
-**** 3.1.2 Documento de especificación funcional 
-*** 3.2 Documentación
-**** 3.2.1 Diagrama de clases <<deliverable>>
-**** 3.2.2 Diagrama de entidad relación <<deliverable>>
-**** 3.2.3 Diagrama de Arquitectura <<deliverable>>
-**** 3.2.4 Documentación de infraestructura <<deliverable>>
+**** 3.1.2 Especificación funcional <<deliverable>>
+*** 3.2 Diseño de datos
+**** 3.2.1 Modelo de datos <<deliverable>>
+**** 3.2.2 Diagrama entidad-relación <<deliverable>>
+*** 3.3 Diseño de arquitectura
+**** 3.3.1 Arquitectura de software <<deliverable>>
+**** 3.3.2 Arquitectura de infraestructura cloud <<deliverable>>
+**** 3.3.3 Diseño de seguridad <<deliverable>>
+**** 3.3.4 Diseño de integración con sistemas académicos <<deliverable>>
+*** 3.4 Diseño UX/UI
+**** 3.4.1 Wireframes <<deliverable>>
+**** 3.4.2 Prototipo de alta fidelidad <<deliverable>>
+**** 3.4.3 Validación de usabilidad <<deliverable>>
+
 ** 4. Desarrollo
-*** 4.1 Documento de especificación técnica: 
-**** 4.1.1 Backend controlado <<deliverable>>
-**** 4.1.2 Frontend controlado <<deliverable>>
-** 5 Pruebas
-*** 5.1 Plan de prueba <<deliverable>> 
-*** 5.2 Casos de prueba <<deliverable>> 
-*** 5.3 Informe de pruebas <<deliverable>> 
-** 6. Implementación y cierre del proyecto
-*** 6.1 Documento de configuración y setup <<deliverable>>
-*** 6.2 Documento de lecciones aprendidas <<deliverable>>
-*** 6.3 Base de conocimientos (LLAA) <<deliverable>>
-*** 6.4 Acta de cierre del Proyecto <<deliverable>>
+*** 4.1 Gestión de Convocatorias
+**** 4.1.1 Construcción del módulo <<deliverable>>
+**** 4.1.2 Integración y validación del módulo <<deliverable>>
+*** 4.2 Gestión de Postulaciones
+**** 4.2.1 Construcción del módulo <<deliverable>>
+**** 4.2.2 Integración y validación del módulo <<deliverable>>
+*** 4.3 Validación Documental
+**** 4.3.1 Construcción del módulo <<deliverable>>
+**** 4.3.2 Integración y validación del módulo <<deliverable>>
+*** 4.4 Evaluación y Asignación
+**** 4.4.1 Construcción del módulo <<deliverable>>
+**** 4.4.2 Integración y validación del módulo <<deliverable>>
+*** 4.5 Reportes e Indicadores
+**** 4.5.1 Construcción del módulo <<deliverable>>
+**** 4.5.2 Integración y validación del módulo <<deliverable>>
+*** 4.6 Integración con sistemas académicos
+**** 4.6.1 Integración con SIU Guaraní <<deliverable>>
+**** 4.6.2 APIs REST documentadas <<deliverable>>
+*** 4.7 Infraestructura y seguridad
+**** 4.7.1 Infraestructura cloud configurada <<deliverable>>
+**** 4.7.2 Configuración de seguridad <<deliverable>>
+**** 4.7.3 Configuración de monitoreo y disponibilidad <<deliverable>>
+*** 4.8 Documentación técnica
+**** 4.8.1 Especificación técnica <<deliverable>>
+**** 4.8.2 Documentación de infraestructura <<deliverable>>
+
+** 5. Pruebas y Aceptación
+*** 5.1 Planificación de pruebas
+**** 5.1.1 Plan de pruebas <<deliverable>>
+**** 5.1.2 Casos de prueba <<deliverable>>
+*** 5.2 Pruebas funcionales
+**** 5.2.1 Pruebas de integración <<deliverable>>
+**** 5.2.2 Pruebas de regresión <<deliverable>>
+*** 5.3 Pruebas no funcionales
+**** 5.3.1 Pruebas de carga y performance <<deliverable>>
+**** 5.3.2 Pruebas de seguridad y pentesting <<deliverable>>
+*** 5.4 Aceptación de usuario
+**** 5.4.1 Pruebas UAT <<deliverable>>
+**** 5.4.2 Acta de aceptación de usuario <<deliverable>>
+*** 5.5 Calidad
+**** 5.5.1 Informe de QA <<deliverable>>
+
+** 6. Implementación y Cierre
+*** 6.1 Preparación de puesta en marcha
+**** 6.1.1 Documento de configuración y setup <<deliverable>>
+**** 6.1.2 Plan de implementación <<deliverable>>
+*** 6.2 Implementación
+**** 6.2.1 Despliegue en ambiente productivo <<deliverable>>
+**** 6.2.2 Configuración de la institución piloto <<deliverable>>
+*** 6.3 Capacitación
+**** 6.3.1 Manual de usuario <<deliverable>>
+**** 6.3.2 Plan de capacitación <<deliverable>>
+**** 6.3.3 Capacitación institucional ejecutada <<deliverable>>
+*** 6.4 Estabilización
+**** 6.4.1 Monitoreo post-implementación <<deliverable>>
+**** 6.4.2 Informe de estabilización <<deliverable>>
+*** 6.5 Cierre
+**** 6.5.1 Lecciones aprendidas <<deliverable>>
+**** 6.5.2 Base de conocimientos <<deliverable>>
+**** 6.5.3 Acta de cierre del proyecto <<deliverable>>
+**** 6.5.4 Presentación a la alta dirección <<deliverable>>
+
 @endwbs
