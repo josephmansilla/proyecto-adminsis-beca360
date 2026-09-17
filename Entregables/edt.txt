@@ -3,7 +3,8 @@
 
 ** 1. Iniciación
 *** 1.1 Acta de Proyecto <<deliverable>>
-*** 1.2 Organización del Proyecto <<deliverable>>
+*** 1.2 Organización del Proyecto
+**** 1.2.1 Organigrama del proyecto <<deliverable>>
 *** 1.3 Presupuesto inicial <<deliverable>>
 *** 1.4 Matriz de interesados <<deliverable>>
 
@@ -20,6 +21,8 @@
 **** 2.2.5 Planes de acción y contingencia <<deliverable>>
 **** 2.2.6 Matriz de comunicaciones <<deliverable>>
 **** 2.2.7 Plan de calidad <<deliverable>>
+**** 2.2.8 Informes de seguimiento del proyecto <<deliverable>>
+**** 2.2.9 Control de cambios <<deliverable>>
 *** 2.3 Gestión organizacional
 **** 2.3.1 Matriz de roles y responsabilidades <<deliverable>>
 **** 2.3.2 Matriz de habilidades y competencias <<deliverable>>
@@ -41,27 +44,22 @@
 **** 3.3.2 Arquitectura de infraestructura cloud <<deliverable>>
 **** 3.3.3 Diseño de seguridad <<deliverable>>
 **** 3.3.4 Diseño de integración con sistemas académicos <<deliverable>>
-*** 3.4 Diseño UX/UI
+*** 3.4 Diseño de experiencia e interfaz
 **** 3.4.1 Wireframes <<deliverable>>
 **** 3.4.2 Prototipo de alta fidelidad <<deliverable>>
 **** 3.4.3 Validación de usabilidad <<deliverable>>
 
 ** 4. Desarrollo
-*** 4.1 Gestión de Convocatorias
-**** 4.1.1 Construcción del módulo <<deliverable>>
-**** 4.1.2 Integración y validación del módulo <<deliverable>>
-*** 4.2 Gestión de Postulaciones
-**** 4.2.1 Construcción del módulo <<deliverable>>
-**** 4.2.2 Integración y validación del módulo <<deliverable>>
-*** 4.3 Validación Documental
-**** 4.3.1 Construcción del módulo <<deliverable>>
-**** 4.3.2 Integración y validación del módulo <<deliverable>>
-*** 4.4 Evaluación y Asignación
-**** 4.4.1 Construcción del módulo <<deliverable>>
-**** 4.4.2 Integración y validación del módulo <<deliverable>>
-*** 4.5 Reportes e Indicadores
-**** 4.5.1 Construcción del módulo <<deliverable>>
-**** 4.5.2 Integración y validación del módulo <<deliverable>>
+*** 4.1 Módulo de Gestión de Convocatorias
+**** 4.1.1 Módulo de Convocatorias integrado <<deliverable>>
+*** 4.2 Módulo de Gestión de Postulaciones
+**** 4.2.1 Módulo de Postulaciones integrado <<deliverable>>
+*** 4.3 Módulo de Validación Documental
+**** 4.3.1 Módulo de Validación Documental integrado <<deliverable>>
+*** 4.4 Módulo de Evaluación y Asignación
+**** 4.4.1 Módulo de Evaluación y Asignación integrado <<deliverable>>
+*** 4.5 Módulo de Reportes e Indicadores
+**** 4.5.1 Módulo de Reportes e Indicadores integrado <<deliverable>>
 *** 4.6 Integración con sistemas académicos
 **** 4.6.1 Integración con SIU Guaraní <<deliverable>>
 **** 4.6.2 APIs REST documentadas <<deliverable>>
